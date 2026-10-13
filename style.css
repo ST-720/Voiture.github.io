@@ -1,0 +1,37 @@
+h1
+{ 
+text-align:center;
+text-decoration:underline;
+color:whitesmoke
+}
+
+h2
+{ 
+text-decoration:underline;
+color:whitesmoke
+}
+p
+{ 
+color:white
+}
+P
+{
+  font-size: 26px;
+}
+p
+{
+border: 10px solid gray;
+width: 40%;
+text-align:left;
+}
+body
+{
+
+ background-image:url('https://img.freepik.com/vecteurs-libre/fond-polygonale-realiste_52683-60158.jpg');
+ height: 100%;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
+ font-family: arial;
+}
